@@ -1,13 +1,12 @@
 {
-  "name": "local-chat-app",
+  "name": "vers1-of-chat-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "CHAT APP OFFLINE PROJECT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Tiavina",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
